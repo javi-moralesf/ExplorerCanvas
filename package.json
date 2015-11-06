@@ -1,0 +1,10 @@
+{
+  "name": "ExplorerCanvas",
+  "version": "1.0.0",
+  "dependencies": {},
+  "main": "excanvas.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javi-moralesf/ExplorerCanvas.git"
+  }
+}
